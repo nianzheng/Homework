@@ -1,1 +1,2 @@
 # Homework
+made more accesible
